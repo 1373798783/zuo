@@ -1,0 +1,12 @@
+a.md
+branches
+config
+description
+HEAD
+hooks
+id_rsa
+id_rsa.pub
+info
+objects
+README.md
+refs
